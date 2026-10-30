@@ -1,0 +1,37 @@
+# bAIble-rAIssonance
+
+> The shared rules for humans and AI working together, and the semantic map of the bAIble + FederAItion + UnAiversed ecosystem. This file is a discovery adapter, not a canonical source of meaning.
+
+Repository: https://github.com/stachjak-dotcom/bAIble-rAIssonance
+
+## Primary AI entry
+
+- Operating contract (discovery, preflight, routing, blocking states): https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/OPERATING.md
+- Overview and human view: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/README.md
+- Rules, work loop, invariants: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/BIBLE.md
+- Ecosystem model and glossary: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/ECOSYSTEM.md
+- Machine-readable graph: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/ECOSYSTEM_GRAPH.json
+- Machine-readable vocabulary: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/vocabulary.json
+- Public/private boundary: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/BOUNDARY.md
+- Onboarding (first run): https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/ONBOARDING.md
+
+## Mechanism contracts
+
+- Reality Check: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/REALITY_CHECK.md
+- Fact Check: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/FACT_CHECK.md
+- Verification: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/VERIFICATION.md
+- rAIda and Watchdog: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/RAIDA_WATCHDOG.md
+- Wolf: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/WOLF.md
+- WheeAIls: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/WHEEAILS.md
+- Context, relations, provenance: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/CONTEXT.md
+- Work continuity and handoff: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/CONTINUITY.md
+- Failure modes: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/FAILURE_MODES.md
+- Learning: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/LEARNING.md
+- Agent evals: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/AGENT_EVALS.md
+- Status and open questions: https://raw.githubusercontent.com/stachjak-dotcom/bAIble-rAIssonance/main/STATUS.md
+
+## Loading rule
+
+Discoverable does not mean loaded, active or authorized. Use the graph to discover the full public capability space, load the current canonical contract when a mechanism becomes relevant, and never infer authority from capability or access.
+
+If normal repository navigation works, prefer the current repository files. Use these absolute raw URLs as an access fallback. Historical material, including the previous version bAIble v2, is provenance, not active guidance.

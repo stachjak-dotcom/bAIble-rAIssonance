@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "purpose": "Source manifest for generated AI context bundles. Canonical meaning remains in the listed source files.",
+  "profiles": {
+    "core": [
+      "OPERATING.md",
+      "README.md",
+      "BIBLE.md",
+      "ECOSYSTEM.md",
+      "ECOSYSTEM_GRAPH.json",
+      "vocabulary.json",
+      "BOUNDARY.md",
+      "REALITY_CHECK.md",
+      "FACT_CHECK.md",
+      "VERIFICATION.md",
+      "RAIDA_WATCHDOG.md",
+      "WOLF.md",
+      "WHEEAILS.md",
+      "CONTEXT.md",
+      "CONTINUITY.md",
+      "FAILURE_MODES.md",
+      "ONBOARDING.md"
+    ],
+    "reference": [
+      "LEARNING.md",
+      "AGENT_EVALS.md",
+      "STATUS.md",
+      "SONG_TWO.md"
+    ]
+  }
+}
