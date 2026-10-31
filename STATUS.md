@@ -12,7 +12,7 @@ This candidate is being prepared from bAIble v2 at revision `80b7262de738d5fdb6e
 
 ## Inherited status (as recorded in bAIble v2, not re-verified here)
 
-The table below is the status bAIble v2 recorded for the ecosystem layers ([source](https://github.com/stachjak-dotcom/bAIble-v2/blob/80b7262de738d5fdb6e07fe82f31aff6c77ce999/STATUS.md)). It is kept so the state stays visible; it has not been re-verified for this version, and runtime evidence behind it lives in private FederAItion.
+The table below is the status bAIble v2 recorded for the ecosystem layers (source: bAIble v2 `STATUS.md` at revision `80b7262`, no longer public). It is kept so the state stays visible; it has not been re-verified for this version, and runtime evidence behind it lives in private FederAItion.
 
 | Area | Designed | Built | Tested | Verified | Integrated |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@ bAIble v2 described itself as a usable living baseline ("ecosystem baseline stat
 
 ## Origin
 
-bAIble v2 was consolidated on 2026-10-20 from 50 documents to 20 active ones. Its history and old-to-new file map stay in [bAIble v2](https://github.com/stachjak-dotcom/bAIble-v2/blob/80b7262de738d5fdb6e07fe82f31aff6c77ce999/README.md) and are not active guidance here.
+bAIble v2 was consolidated on 2026-10-20 from 50 documents to 20 active ones. Its history and old-to-new file map stay in bAIble v2 (revision `80b7262`, no longer public) and are not active guidance here.
 
 ## Open questions
 
@@ -82,7 +82,9 @@ A failed item triggers investigation. It is not by itself proof that the underly
 
 ## Provenance of this version
 
-Every file of this version comes from bAIble v2 at revision `80b7262de738d5fdb6e07fe82f31aff6c77ce999`, at the same path. **P** = carried over with meaning unchanged; **P (identity)** = only the version name changed; **R** = reworked as described. History and other bAIble v2 material not listed here stays in [bAIble v2](https://github.com/stachjak-dotcom/bAIble-v2/blob/80b7262de738d5fdb6e07fe82f31aff6c77ce999/README.md) and is not part of this version. Carrying a file over does not carry over evidence that it works.
+Every file of this version comes from bAIble v2 at revision `80b7262de738d5fdb6e07fe82f31aff6c77ce999`, at the same path. **P** = carried over with meaning unchanged; **P (identity)** = only the version name changed; **R** = reworked as described. History and other bAIble v2 material not listed here stays in bAIble v2 (revision `80b7262`, no longer public) and is not part of this version. Carrying a file over does not carry over evidence that it works.
+
+After this version was published, bAIble v2 stopped being public (2026-10-31). Links to it were then replaced by plain-text references naming the same files and revision; meaning and provenance are unchanged.
 
 | File | Kind | Change |
 |---|---|---|
@@ -94,15 +96,15 @@ Every file of this version comes from bAIble v2 at revision `80b7262de738d5fdb6e
 | `BOUNDARY.md` | P (identity) | Title or name only: bAIble v2 → bAIble-rAIssonance |
 | `CONTEXT.md` | P (identity) | Title or name only: bAIble v2 → bAIble-rAIssonance |
 | `CONTINUITY.md` | R | Title |
-| `ECOSYSTEM.md` | R | Title; chronology link points to bAIble v2 |
+| `ECOSYSTEM.md` | R | Title; chronology reference names bAIble v2 |
 | `ECOSYSTEM_GRAPH.json` | R | No change (reviewed; all resources are current relative paths) |
 | `FACT_CHECK.md` | P (identity) | Title or name only: bAIble v2 → bAIble-rAIssonance |
 | `FAILURE_MODES.md` | P (identity) | Title or name only: bAIble v2 → bAIble-rAIssonance |
 | `LEARNING.md` | P (identity) | Title or name only: bAIble v2 → bAIble-rAIssonance |
 | `ONBOARDING.md` | R | Title; starter instruction names this version |
-| `OPERATING.md` | R | Title; links to history and the discovery experiment now point to bAIble v2 |
+| `OPERATING.md` | R | Title; references to history and the discovery experiment name bAIble v2 |
 | `RAIDA_WATCHDOG.md` | P (identity) | Title or name only: bAIble v2 → bAIble-rAIssonance |
-| `README.md` | R | Entry adapted: title, draft-candidate status, previous-version link |
+| `README.md` | R | Entry adapted: title, draft-candidate status, previous-version reference |
 | `REALITY_CHECK.md` | P (identity) | Title or name only: bAIble v2 → bAIble-rAIssonance |
 | `SONG_TWO.md` | P | None |
 | `STATUS.md` | R | Own status of this version; inherited bAIble v2 status kept as such; this provenance table |

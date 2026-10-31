@@ -74,7 +74,7 @@ Your journey: `GOAL → SHARED MAP → SCOPE → PLAN → APPROVAL WHEN NEEDED �
 | [STATUS.md](STATUS.md) | What is built, tested, verified; open questions; self-audit |
 | [SONG_TWO.md](SONG_TWO.md) | The cultural layer |
 | [vocabulary.json](vocabulary.json) · [ECOSYSTEM_GRAPH.json](ECOSYSTEM_GRAPH.json) | Machine-readable vocabulary and graph |
-| [bAIble v2](https://github.com/stachjak-dotcom/bAIble-v2/blob/80b7262de738d5fdb6e07fe82f31aff6c77ce999/README.md) | The previous version this one was carried over from (pinned revision); provenance, not active guidance |
+| bAIble v2 (revision `80b7262`) | The previous version this one was carried over from; no longer public; provenance, not active guidance |
 
 Agent adapters: [AGENTS.md](AGENTS.md) and [llms.txt](llms.txt) only point here; they do not redefine anything.
 

@@ -84,7 +84,7 @@ The AI Discovery / Capability view answers which capabilities exist, which canon
 
 **Visual epistemics.** A viewer distinguishes at least observation, claim, interpretation, decision, rule, lesson, evidence, verification, mechanism, role, system, risk, question and experiment. Storage, repetition or visual prominence must never promote an item to truth.
 
-**History** appears only where it explains current structure or protects meaning, such as why rAIda, Watchdog, Reality Check and Fact Check are separate. Routine chronology stays in the previous version, [bAIble v2](https://github.com/stachjak-dotcom/bAIble-v2/blob/80b7262de738d5fdb6e07fe82f31aff6c77ce999/README.md).
+**History** appears only where it explains current structure or protects meaning, such as why rAIda, Watchdog, Reality Check and Fact Check are separate. Routine chronology stays in the previous version, bAIble v2 (revision `80b7262`, no longer public).
 
 **Design principle.** The map must show not only what exists, but why it exists, what it relates to, what may trust it, who may act on it, and what happens when it fails. That is the difference between a decorative mind map and UnAiversed.
 

@@ -56,7 +56,7 @@ Resource pointers and routing hints are navigation; they do not redefine meaning
 
 **Progressive discovery:** `ORIENT → DISCOVER → LOAD RELEVANT CONTRACT → WORK → OBSERVE NEW TRIGGER → DISCOVER / LOAD MORE`. A simple task stays simple.
 
-**Current versus historical:** normal discovery uses current canonical sources. Material in history or archives (for this version: the previous version, [bAIble v2](https://github.com/stachjak-dotcom/bAIble-v2/blob/80b7262de738d5fdb6e07fe82f31aff6c77ce999/README.md)) stays retrievable for provenance, reconstruction, audit or explicit research, but does not take part in ordinary activation (`ACTIVE DISCOVERY ≠ HISTORICAL RETRIEVAL`). Do not activate historical meaning because a name or label resembles a current mechanism. An archived source is not absent and not necessarily false.
+**Current versus historical:** normal discovery uses current canonical sources. Material in history or archives (for this version: the previous version, bAIble v2 at revision `80b7262`, no longer public) stays retrievable for provenance, reconstruction, audit or explicit research, but does not take part in ordinary activation (`ACTIVE DISCOVERY ≠ HISTORICAL RETRIEVAL`). Access to bAIble v2 requires the owner's explicit permission for one specified purpose and occasion; a provenance reference is not permission to retrieve it. Do not activate historical meaning because a name or label resembles a current mechanism. An archived source is not absent and not necessarily false.
 
 **Adapters are not canonical.** README, llms.txt, AGENTS.md and generated bundles make sources reachable; they must not redefine meaning, scope, authority, verification state or boundaries (`ADAPTER → LOCATE CANONICAL SOURCE`, never `ADAPTER → BECOME SECOND BIBLE`). A generated bundle names its source revision and is regenerated from sources, never edited.
 
@@ -72,7 +72,7 @@ Resource pointers and routing hints are navigation; they do not redefine meaning
 
 Public discovery exposes public contracts only. It must not expose or require private FederAItion or UnAiversed contents, credentials, private run evidence, hidden conversations or confidential data. Knowing that a private domain exists is not access to it.
 
-Discovery works when the worker can locate the capability map, find the contract for an applicable mechanism, tell loaded from discoverable, keep dormant mechanisms discoverable, avoid treating loading as authorization, use fallback access without repeated human navigation, and avoid unnecessary full loading ([AGENT_EVALS.md](AGENT_EVALS.md), the discovery experiment recorded in [bAIble v2](https://github.com/stachjak-dotcom/bAIble-v2/blob/80b7262de738d5fdb6e07fe82f31aff6c77ce999/experiments/AI_DISCOVERY_001.md)).
+Discovery works when the worker can locate the capability map, find the contract for an applicable mechanism, tell loaded from discoverable, keep dormant mechanisms discoverable, avoid treating loading as authorization, use fallback access without repeated human navigation, and avoid unnecessary full loading ([AGENT_EVALS.md](AGENT_EVALS.md), the discovery experiment EXP-AI-DISCOVERY-001 recorded in bAIble v2, `experiments/AI_DISCOVERY_001.md` at revision `80b7262`, no longer public).
 
 ## 2. Baseline that is always on
 
